@@ -1,1 +1,0 @@
-// JS para guardar y mostrar publicaciones con Firebase

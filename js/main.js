@@ -1,1 +1,0 @@
-// JS para animación y reproductor
